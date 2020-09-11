@@ -1,0 +1,16 @@
+body{
+		background-color: #f7dcd5;
+		font-family: "Space Mono", courier;
+		color: #5e5352;
+
+	}
+
+	a {
+		color: #a67b77;
+	}
+
+	a:hover {
+		color: #f58b7f;
+		text-decoration: line-through;
+		font-style: italic;
+	}
