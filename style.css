@@ -14,3 +14,11 @@ body{
 		text-decoration: line-through;
 		font-style: italic;
 	}
+	
+	.content {
+		max-width: 600px;
+		margin: auto;
+		text-align: center;
+		vertical-align: middle;
+		padding-top: 280px;
+	}
